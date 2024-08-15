@@ -19,6 +19,7 @@ requests:
       - "{{BaseURL}}/api/v2"
       - "{{BaseURL}}/api/v3"
       - "{{BaseURL}}/api/2/explore/"
+      - "{{BaseURL}}/swagger-ui.js
       - "{{BaseURL}}/apidoc"
       - "{{BaseURL}}/apidocs"
       - "{{BaseURL}}/application"
